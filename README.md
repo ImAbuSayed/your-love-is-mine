@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-love-is-mine/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Your Love Is Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-love-is-mine/) |
+| **Get License** | [Get a Licensing Quote for Your Love Is Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-love-is-mine/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your love is mine, your love is mine
+> Midnight shadows dancing down the line
+> Your love is mine, your love is mine
+> Got me feeling warm like whiskey wine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
