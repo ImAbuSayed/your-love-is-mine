@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Love Is Mine
+
+This log tracks the cryptographic history and versioning for the song **Your Love Is Mine** (your-love-is-mine).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:51:11.526284 | `v1` | `1f06e4e6333bfaa416c6523b7b88a32afa2d7ed430bd87a42b2f24ba3dfa6ebd` | `19faefceb7afb9b19f6d4c655023a66369643dbf1049cc0107c6215229862e86` | `2026-05-26_your-love-is-mine-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

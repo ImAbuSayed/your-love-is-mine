@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-love-is-mine/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Your Love Is Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-love-is-mine/) |
+| **Get License** | [License this song: Your Love Is Mine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-love-is-mine/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1f06e4e6333bfaa416c6523b7b88a32afa2d7ed430bd87a42b2f24ba3dfa6ebd` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
